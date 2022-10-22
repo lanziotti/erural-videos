@@ -27,7 +27,7 @@ Projeto feito para processo seletivo.
 #
 
 ## Links
-- Deploy Netlify (acesse o programa por aqui): 
+- Deploy Netlify (acesse o programa por aqui): https://erural-videos.netlify.app
 - Repositório: https://github.com/lanziotti/dindin-front
 
 ## Contatos
