@@ -1,0 +1,44 @@
+header {
+    width: 100%;
+    height: 180px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.content-header {
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+    margin-left: 40px;
+}
+
+.content-header img {
+    width: 280px;
+    height: 90px;
+}
+
+.content-header h1 {
+    font-size: 80px;
+    color: #e97e13;
+}
+
+.content-logout {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-right: 40px;
+}
+
+.content-logout span {
+    font-size: 20px;
+    font-weight: bold;
+    color: #1e6511;
+}
+
+.content-logout img {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
